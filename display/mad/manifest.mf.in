@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0 (Sun Microsystems Inc.)
+Class-Path: JMF-2.1.1e/lib/jmf.jar jai-1_1_3/lib/jai_codec.jar jai-1_1_3/lib/jai_core.jar
+Main-Class: @MAD_MAIN_CLASS@
